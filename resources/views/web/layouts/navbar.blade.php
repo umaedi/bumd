@@ -39,7 +39,7 @@
             <a class="nav-link" href="#tentang">Publikasi</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#layanan">PPID</a>
+            <a class="nav-link" href="https://ppid.tulangbawangjaya.com">PPID</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#kontak">Kontak Kami</a>
