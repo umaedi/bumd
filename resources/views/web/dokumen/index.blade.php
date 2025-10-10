@@ -234,6 +234,17 @@
               </div>
             </div>
           </div>
+          <div class="col-12 col-md-4">
+            <div class="card">
+              <img src="{{ asset('assets/thumbnail/pdf.png') }}" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text text-capitalize">
+                 LAPORAN TAHUNAN PT TBJ TAHUN 2024
+                </p>
+                <a href="{{ asset('assets/documents/Laporan Tahunan Pt. Tbj thn 2024.pdf') }}" target="_blank" class="btn btn-primary">Lihat dokumen</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

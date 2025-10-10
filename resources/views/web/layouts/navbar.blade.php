@@ -31,7 +31,7 @@
         <li><a class="dropdown-item" href="{{ route('web.biodata-direktur') }}">Biodata direktur</a></li>
         <li><a class="dropdown-item" href="{{ route('web.lhkpn') }}">LHKPN</a></li>
         </ul>
-    </li>
+        </li>
         <li class="nav-item">
             <a class="nav-link" href="{{ route('web.dokumen') }}">Dokumen</a>
         </li>
